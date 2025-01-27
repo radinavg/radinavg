@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Radina!  
+# 👩🏻‍💻 Hi, I'm Radina!  
 
 I'm a **Master's student in Software Engineering and Internet Computing** at Technische Universität Wien. I love solving problems, building software, and exploring new technologies to create impactful solutions.  
 
